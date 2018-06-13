@@ -1,2 +1,2 @@
-# me
-A new currency that helps to understand our value. 
+# ME
+A new currency that helps us to understand our value. 
