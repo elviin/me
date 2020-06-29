@@ -1,6 +1,6 @@
 # ME
 ### Description
-A new currency that helps us to understand our value. A test application that is giving customers a different perspective about values of the goods available online. The extension finds the prices in online stores and translates them into the time that we need to spend in work in order to make money to buy the item. You can try to visit e.g. Amazon.de or Zalando.de.
+A new currency that helps us to understand our value. A test application that is giving customers a different perspective about values of the goods available online. The extension parses the prices in web pages of the online shops and translates them into the time that we need to spend in work in order to make money to buy the item. You can try to visit e.g. Amazon.de or Zalando.de.
 
 ### Configuration
 In the settings, fill in the data necessary for the correct functionality of the extension:
