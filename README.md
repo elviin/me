@@ -35,7 +35,7 @@ In the settings, fill in the data necessary for the correct functionality of the
 Tap the Save button. Without all fields filled in, the extension does not work.
 
 ### Further development and benefits of the application
-The extension is in its early development phase and there are many issue, but it is already fun to see the shops from this perspective. For example you can see not only the actual prices but also discounts in the time you have to spend in your work in order to buy it.
+The extension is in its early development phase and there are many issues, but it is already fun to see the shops from this perspective. For example you can see not only actual prices but also discounts presented in the time you have to spend in your work in order to buy it.
 
 The extension can be very useful also in pages offering other products, like insurance, hypothek or loans. That perspective gives another dimension of understanding the offort to consume different products and be careful about accepting the costs. 
 
