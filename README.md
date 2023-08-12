@@ -9,7 +9,7 @@ The extension does not differentiate among different figures on the web page. It
 This is an experimental hacked project. A new currency **ME** that helps us to understand our value. A test application that is giving customers a different perspective about values of the goods available online. The extension parses the prices in web pages of the online shops and translates them into the time that we need to spend in work in order to make money to buy the item. You can try to visit e.g. Amazon.de or Zalando.de.
 
 ### Installation
-The extension works only in Chrome for sure. In or der to use it, add the `source` folder into Chrome in the development mode as an extension.
+The extension works only in Chrome for sure. In or der to use it, you can simply download the archive from github, and add the `me/source` folder into Chrome in the development mode as an extension.
 
 <img width="571" alt="CleanShot 2023-08-12 at 08 35 04@2x" src="https://github.com/elviin/me/assets/5015556/7602e7d3-9bdb-4f18-837b-c41009d1ed38">
 
