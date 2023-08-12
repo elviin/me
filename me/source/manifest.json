@@ -1,0 +1,31 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "event.js" ]
+   },
+   "browser_action": {
+      "default_icon": "images/icon_19.png",
+      "default_popup": "popup.html",
+      "default_title": "Converter to ME currency"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "jquery-2.1.4.min.js", "content_script.js"],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_end"
+   } ],
+   "description": "The extension shows a time value (Me currency) close to the convetional currency value. The time value is the time you spend in your work to make the money .",
+   "icons": {
+      "128": "images/icon_128.png",
+      "48": "images/icon_48.png"
+   },
+   "manifest_version": 2,
+   "name": "Converter to the Me currency",
+   "options_page": "options.html",
+   "options_ui": {
+      "page": "options.html"
+   },
+   "permissions": [ "storage" ],
+   "short_name": "ME convertor",
+   "version": "0.0.2"
+}

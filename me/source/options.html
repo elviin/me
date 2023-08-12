@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head><title>My Test Extension Options</title></head>
+<body>
+
+<p style="font-size:20px; margin-top:5px; margin:5px 0"> Net income per month (EUR):</p>  
+<input type="number" value="3000" name="income" min="1" max="10000" id="income" style="display:block; font-size:20px;">
+
+<p style="font-size:20px; margin-top:5px; margin:5px 0"> Fixed costs of living per month (EUR):</p>  
+<input type="number" name="costs" value="2000" min="1" max="10000" id="costs" style="display:block; font-size:20px;">
+
+<p style="font-size:20px; margin-top:5px; margin:5px 0"> Number of working hours per day:</p>  
+<input type="number" name="hours_per_day" value="9" min="24" max="5" id="hours_per_day" style="display:block; font-size:20px;">
+
+<p style="font-size:20px; margin-top:5px; margin:5px 0"> Number of working hours per month:</p>  
+<input type="number" name="hours_per_month" value="160" min="500" max="5" id="hours_per_month" style="display:block; font-size:20px;">
+
+<p style="font-size:20px; margin-top:5px; margin:5px 0"> Number of hours spent commuting to work per day:</p>
+<input type="number" name="commuting" value="1" min="1" max="10" id="commuting" style="display:block; font-size:20px;">
+
+<p>
+<div id="status"></div>
+<button id="save" style="font-size:20px;">Save</button>
+</p>
+
+<script src="options.js"></script>
+</body>
+</html>
