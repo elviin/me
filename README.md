@@ -1,6 +1,6 @@
 # ME - a Chrome extension showing the real effort to pay for products
 
-In the following screen shot from amazon.com, you can see that in order to get the iPhone 14 Max, you need to work extra 15 to 16 days given the income configuration (see Configuration).
+In the following screenshot from amazon.com, you can see that in order to get the iPhone 14 Max, you need to work extra 15 to 16 days given the income configuration (see Configuration).
 
 <img width="1129" alt="CleanShot 2023-08-12 at 08 45 13@2x" src="https://github.com/elviin/me/assets/5015556/c8d0a0a8-7b17-48df-9921-d49bdb1a3fb4">
 The extension does not differentiate among different figures on the web page. It still needs to be fixed, as many other things:)
