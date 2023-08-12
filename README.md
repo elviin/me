@@ -2,10 +2,10 @@
 
 In the following screenshot from amazon.com, you can see that in order to get the iPhone 14 Max, you need to work extra 15 to 16 days given the income configuration (see Configuration).
 
-M - months
-D - days
-H - hours
-M - minutes
+- M - months
+- D - days
+- H - hours
+- M - minutes
 
 15D 7H (6H 18M) Means that you have to work extra 15 days and 7 hours in order to get the iPhone 14 Max. But you gain with it a super discount of 6 hours and 18 minutes. 
 
